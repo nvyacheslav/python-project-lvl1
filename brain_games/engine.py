@@ -5,10 +5,10 @@ def start(game):
     QUANTITY_OF_ROUNDS = 3
     number_of_round = 1
     print('Welcome to the Brain Games!')
-    print(game.RULES + '\n')
     name = prompt.string('May I have your name? ')
     welcome = f'Hello, {name}'
     print('\n' + welcome)
+    print(game.RULES + '\n')
     while number_of_round <= QUANTITY_OF_ROUNDS:
         result, question, = game.question_and_answer()
         print('Question: ' + question)
