@@ -1,4 +1,9 @@
-/.venv/
-/.idea/
 __pycache__
-/dist/
+dist/
+*.pyc
+.venv/
+.coverage
+coverage.xml
+.pytest_cache/
+*.swp
+.idea
