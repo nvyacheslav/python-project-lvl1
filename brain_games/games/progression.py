@@ -13,7 +13,7 @@ def question_and_answer():
     question = ''
     while index_of_num < quantity_of_nums_in_question:
         if index_of_num == position_of_indefinite_num:
-            question = question + '. . '
+            question = question + '.. '
             index_of_num = index_of_num + 1
         else:
             question += f'{start_num + value_of_progression * index_of_num} '
