@@ -4,7 +4,7 @@ from random import randint, choice
 RULES = 'What is the result of the expression?'
 
 
-def question_and_answer():
+def get_question_and_answer():
     sign = choice('-+*')
     first_num = randint(1, 20)
     sec_num = randint(1, 20)

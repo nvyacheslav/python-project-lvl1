@@ -4,7 +4,7 @@ from random import randint
 RULES = 'What number is missing in the progression?'
 
 
-def question_and_answer():
+def get_question_and_answer():
     quantity_of_nums_in_question = 10
     start_num = randint(1, 25)
     position_of_indefinite_num = randint(1, quantity_of_nums_in_question - 1)

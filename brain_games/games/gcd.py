@@ -4,7 +4,7 @@ from random import randint
 RULES = 'Find the greatest common divisor of given numbers.'
 
 
-def question_and_answer():
+def get_question_and_answer():
     num1 = randint(1, 50)
     num2 = randint(1, 50)
     question = f"{str(num1)} {str(num2)}"

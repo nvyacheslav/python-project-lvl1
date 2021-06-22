@@ -3,12 +3,12 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability)](https://codeclimate.com/github/codeclimate/codeclimate/maintainability)
 [![Actions Status](https://github.com/nvyacheslav/python-project-lvl1/actions/workflows/python-package.yml/badge.svg)](https://github.com/nvyacheslav/python-project-lvl1/actions)
 # brain-calc
-[![asciicast](https://asciinema.org/a/TK2s1EXlxgOn0TpjAbePL23Gq.svg)](https://asciinema.org/a/TK2s1EXlxgOn0TpjAbePL23Gq)
+[![asciicast](https://asciinema.org/a/nZoPucIiqpjrWabzYMqvccX89.svg)](https://asciinema.org/a/nZoPucIiqpjrWabzYMqvccX89)
 # brain-even
-[![asciicast](https://asciinema.org/a/xkOoMH9qTJWh1ANPmp23icB2i.svg)](https://asciinema.org/a/xkOoMH9qTJWh1ANPmp23icB2i)
+[![asciicast](https://asciinema.org/a/efsTLHPtaYdFtl5ueWcisObnX.svg)](https://asciinema.org/a/efsTLHPtaYdFtl5ueWcisObnX)
 # brain-gcd
-[![asciicast](https://asciinema.org/a/ncu38GweAmRMvRz0eAPpgE9TK.svg)](https://asciinema.org/a/ncu38GweAmRMvRz0eAPpgE9TK)
+[![asciicast](https://asciinema.org/a/1Da9wV5qcjK6d1YiCz893TkkI.svg)](https://asciinema.org/a/1Da9wV5qcjK6d1YiCz893TkkI)
 # brain-progression
-[![asciicast](https://asciinema.org/a/5iSZmJVTHtqVfIKLN2UyybIdP.svg)](https://asciinema.org/a/5iSZmJVTHtqVfIKLN2UyybIdP)
+[![asciicast](https://asciinema.org/a/VYkoV6n1FvLp8Qw4dGYBgfTyt.svg)](https://asciinema.org/a/VYkoV6n1FvLp8Qw4dGYBgfTyt)
 # brain-prime
-[![asciicast](https://asciinema.org/a/nJom0DBMHPYAOkfYrAofYhElh.svg)](https://asciinema.org/a/nJom0DBMHPYAOkfYrAofYhElh)
+[![asciicast](https://asciinema.org/a/x3oT3yJSy5X71VEgR86dnUdnf.svg)](https://asciinema.org/a/x3oT3yJSy5X71VEgR86dnUdnf)
