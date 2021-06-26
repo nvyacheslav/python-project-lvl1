@@ -10,7 +10,7 @@ def welcome_user():
 
 def start(game):
     name = welcome_user()
-    print(game.RULES)    
+    print(game.RULES)
     quantity_of_rounds = 3
     number_of_round = 1
 
